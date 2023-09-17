@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Netlify specific
+.cache/
+.netlify/
+
+# Environment variables
+.env
+
+# Build output (adjust depending on your project)
+build/
+dist/
+public/
+
+# Logs and temporary files
+*.log
+*.log.*
+*.tmp
